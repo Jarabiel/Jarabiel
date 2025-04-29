@@ -43,7 +43,7 @@ Profissional dedicado a traduzir dados em informações estratégicas e insights
     title="SQL Server"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
 />
 
 <br><br> <!-- Espaço necessário para quebrar a linha -->
